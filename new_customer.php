@@ -27,7 +27,7 @@
         <table>
                 <tr><td>User ID: </td><td><input type="varchar" name="User_ID"></td></tr>
                 <tr><td>First Name: </td><td><input type="varchar" name="UserFirstName"></td></tr>
-                <tr><td>Last Name: </td><td><input type="varchar" name="UserLast_Name"></td></tr>
+                <tr><td>Last Name: </td><td><input type="varchar" name="UserLastName"></td></tr>
                 <tr><td><input type="submit" value="Submit"></td><td></td>
             </table>
         </form>
